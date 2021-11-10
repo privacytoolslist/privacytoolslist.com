@@ -1,2 +1,2 @@
 # issues
-issue tracker for privacytoolslist.com
+issue tracker for https://privacytoolslist.com privacy tools list
